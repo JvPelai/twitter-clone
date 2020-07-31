@@ -1,4 +1,4 @@
-# README
+# Twitter clone
 
 This is a mock project intended for learning rails and overall web development concepts such as authentication, authorization,active record, MVC and REST.
 It includes most of the operations that would be expected from a twitter-like application including, user registering, user sessions, posting, and editing posting.
