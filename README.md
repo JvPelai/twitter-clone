@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a mock project intended for learning rails and overall web development concepts such as authentication, authorization,active record, MVC and REST.
+It includes most of the operations that would be expected from a twitter-like application including, user registering, user sessions, posting, and editing posting.
 
-Things you may want to cover:
+Gems included:
 
-* Ruby version
+- [Better Errors](https://rubygems.org/gems/better_errors) - For better errors
 
-* System dependencies
+- [Bulma](https://github.com/joshuajansen/bulma-rails) - for easy CSS. 
 
-* Configuration
+- [Guard](https://github.com/guard/guard) - Useful for live reloading `scss`, `js`, `css`, and `erb` files.
 
-* Database creation
+- [Guard LiveReload](https://github.com/guard/guard-livereload)
 
-* Database initialization
+- [Simple Form](https://github.com/plataformatec/simple_form) - For simple forms!
 
-* How to run the test suite
+- [Devise](https://github.com/plataformatec/devise) - easy user roles and authentication
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Gravatar_image_tag](https://github.com/mdeering/gravatar_image_tag) - Integrated image tag.
